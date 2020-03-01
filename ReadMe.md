@@ -14,7 +14,7 @@
 
 重要的事情说三遍
 
-另外wordpress ping图：![Screenshot 2020-03-01 at 14.49.23](https://github.com/sandasjlda/4fg/blob/master/images/6File)
+另外wordpress ping图：![Screenshot 2020-03-01 at 14.49.23](https://github.com/sandasjlda/4fg/blob/master/images/6File.png)
 
 
 部分地区不可用，并且普遍速度非常慢。
@@ -63,7 +63,7 @@ tos和community guidelines里均无说明只允许发布代码，并且同时有
 
 点绿色键后会有一串不重要的调研，如实填写选择，用途选择host website就好
 
-![Screenshot 2020-03-01 at 14.09.30](https://github.com/sandasjlda/4fg/blob/master/images/1File)
+![Screenshot 2020-03-01 at 14.09.30](https://github.com/sandasjlda/4fg/blob/master/images/1File.png)
 
 
 
@@ -71,27 +71,27 @@ tos和community guidelines里均无说明只允许发布代码，并且同时有
 
 进入后点绿色的new键
 
-![Screenshot 2020-03-01 at 15.24.31](https://github.com/sandasjlda/4fg/blob/master/images/8File)
+![Screenshot 2020-03-01 at 15.24.31](https://github.com/sandasjlda/4fg/blob/master/images/8File.png)
 
-![Screenshot 2020-03-01 at 15.24.50](https://github.com/sandasjlda/4fg/blob/master/images/9File)
+![Screenshot 2020-03-01 at 15.24.50](https://github.com/sandasjlda/4fg/blob/master/images/9File.png)
 
 #### issue
 
 点击issues
 
-![Screenshot 2020-03-01 at 15.23.32](https://github.com/sandasjlda/4fg/blob/master/images/7File)
+![Screenshot 2020-03-01 at 15.23.32](https://github.com/sandasjlda/4fg/blob/master/images/7File.png)
 
-![Screenshot 2020-03-01 at 14.18.17](https://github.com/sandasjlda/4fg/blob/master/images/2File)
+![Screenshot 2020-03-01 at 14.18.17](https://github.com/sandasjlda/4fg/blob/master/images/2File.png)
 
 
 
-![Screenshot 2020-03-01 at 14.18.17 copy](https://github.com/sandasjlda/4fg/blob/master/images/3File)
+![Screenshot 2020-03-01 at 14.18.17 copy](https://github.com/sandasjlda/4fg/blob/master/images/3File.png)
 
 关于标签，label name = 标签名， description描述。颜色可以自己选
 
-![Screenshot 2020-03-01 at 14.19.14](https://github.com/sandasjlda/4fg/blob/master/images/4File)
+![Screenshot 2020-03-01 at 14.19.14](https://github.com/sandasjlda/4fg/blob/master/images/4File.png)
 
-![Screenshot 2020-03-01 at 14.19.46](https://github.com/sandasjlda/4fg/blob/master/images/5File)
+![Screenshot 2020-03-01 at 14.19.46](https://github.com/sandasjlda/4fg/blob/master/images/5File.png)
 
 
 
@@ -103,4 +103,4 @@ tos和community guidelines里均无说明只允许发布代码，并且同时有
 
 **注意！！！github的修改是可以被看见的！！！**
 
-重要的事情说三遍
+点git看po主在线犯蠢。重要的事情说三遍
