@@ -3,6 +3,7 @@
 # 流浪中文同人圈：Github傻瓜自救指南
 
 ## ReadMe:
+为了分流搞的小众网站汇总：https://github.com/sandasjlda/4fg/wiki/小众UGC网站汇总
 
 我知道github可以利用 **hexo**等开源软件配置漂亮的个站，并且有github.io域名。但是配置太过于麻烦了，尤其是对于电脑小白来说。因为github之强大常常会吓跑小白，所以这篇文章旨在利用github issue做一个 **被墙风险比wordpress**低的伪个站。
 
